@@ -34,9 +34,16 @@ ul li a {
     color: #555;
 }
 
+.banner{
+    height: 700px;
+    margin-top: -100px;
+    overflow: hidden;
+}
+
 .banner img {
     width: 100%;
     vertical-align: bottom;
+
 }
 
 footer {
