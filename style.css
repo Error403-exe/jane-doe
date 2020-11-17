@@ -87,21 +87,28 @@ ul li a {
     
 }
 
+.musicas div{
+    width: 50%;
+}
 .musicas img{
     height: 300px;
-    margin-right: 100px;
 }
 
-.musicas ol{
-    margin-top: -100px;
+.lista{
+    padding: 0 0 100px 20px;
 }
 
-.musicas li{
+.lista ol{
+    padding-inline-start: 30px;
+}
+
+.lista li{
     padding: 5px 0;
 }
 
-.musicas ol li strong{
+.lista ol li em{
     color: rgb(255, 153, 0);
+    font-weight: bold;
 }
 
 footer {
